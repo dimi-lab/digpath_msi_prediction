@@ -7,7 +7,7 @@
 
 2. get_features_CTransPath.py
    - Fill in line 51 with your path to ctranspath.pth
-   - Run with `python get_features_CTransPath.py <filenames.csv>" replacing filenames.csv with the output csv of get_filenames.sh
+   - Run with `python get_features_CTransPath.py <filenames.csv>` replacing filenames.csv with the output csv of get_filenames.sh
    - May want to write a shell script to run for all slides' csv files
 
 3. make_h5.py
